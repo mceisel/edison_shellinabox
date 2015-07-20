@@ -9,4 +9,4 @@ yocto bb recipe for shell in a box.  Which is a browser based ssh terminal
   Examples over RNDIS: edison.local:4488, \<RENAMED EDISON\>:4488, or 192,168.2.14:4488. 
   Examples over wifi: edison.local:4488, \<RENAMED EDISON\>:4488, or X.X.X.X:4488.
   
-  Important this does not use a ssl connection so passwords are sent in plain text. It is highly recommend that you change the    edison's hostname and set the ssh password using configure_edison fro, the cli or web configuration page.
+  Important this does not use a ssl connection so passwords are sent in plain text. It is highly recommend that you change the    edison's hostname and set the ssh password using configure_edison from the cli or web configuration page.
